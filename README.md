@@ -34,3 +34,5 @@ docker-compose up -d
 * [Rocket.Chat.py.SDK](https://github.com/RocketChat/Rocket.Chat.py.SDK/tree/develop)
 
 * [run-rocketchat.py](https://github.com/lappis-unb/tais/blob/master/bot/run-rocketchat.py)
+
+* [rocketchat_API](https://github.com/jadolg/rocketchat_API)
