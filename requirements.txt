@@ -1,4 +1,4 @@
 rasa==1.3.7
 rasa-sdk==1.3.3
 # Just to avoit Tensorflow boring warnings
-numpy==1.16.3
+numpy==1.22.0
